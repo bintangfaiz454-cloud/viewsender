@@ -70,9 +70,9 @@ def run_mata():
     print(f"{Y}{B}           >> VIEW SENDER WEBSITE BY BINTANG <<{W}\n")
 
     print(f"{C}{B}╔══════════════════════════════════════════════════════════╗")
-    print(f"║              - VIEWSENDER WEBSITE -                       ║")          
-    print(f"║        Penambah Views Pada Website - By Bintang.          ║")
-    print(f"║             Simple | Cepat | Work 100%                    ║")
+    print(f"║              - VIEWSENDER WEBSITE -                      ║")          
+    print(f"║        Penambah Views Pada Website - By Bintang.         ║")
+    print(f"║             Simple | Cepat | Work 100%                   ║")
     print(f"╚══════════════════════════════════════════════════════════╝{W}")
 
     target = input(f"\n{B}┌─[MASUKKAN URL TARGET]\n└────► {W}")
