@@ -53,7 +53,6 @@ Setelah menjalankan python viewsender.py, ikuti petunjuk di layar:
 
 📸 CONTOH TAMPILAN
 
-```
 ┌─[MASUKKAN URL TARGET]
 └────► https://bintangtools.diskon.cloud
 
@@ -80,7 +79,7 @@ Setelah menjalankan python viewsender.py, ikuti petunjuk di layar:
  TARGET   : https://bintangtools.diskon.cloud
 ══════════════════════════════════════════════════════════
 
-
+```
 ---
 
 ⚙️ FITUR YANG TERSEDIA
