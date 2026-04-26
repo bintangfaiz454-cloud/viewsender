@@ -42,7 +42,7 @@ def show_help():
    Target : https://bintangtools.diskon.cloud
    Views  : 50
 
-   Maka akan mengirim {G}50 request{W} ke website tersebut.
+   Maka akan mengirim {G}50 views{W} ke website tersebut.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 """)
