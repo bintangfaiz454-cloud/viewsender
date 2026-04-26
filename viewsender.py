@@ -12,7 +12,7 @@ def show_help():
     """Tampilan panduan sebelum eksekusi"""
     os.system('clear')
     print(f"{C}{B}╔══════════════════════════════════════════════════════════╗{W}")
-    print(f"{C}{B}║{W}              🔥 VIEWSENDER WEBSITE DARI BINTANG TOOLS 🔥  {C}{B}║{W}")
+    print(f"{C}{B}║{W}      🔥 VIEWSENDER WEBSITE DARI BINTANG TOOLS 🔥           {C}{B}║{W}")
     print(f"{C}{B}╚══════════════════════════════════════════════════════════╝{W}")
     print(f"""
 {G}{B}📖 PANDUAN PENGGUNAAN:{W}
@@ -70,9 +70,9 @@ def run_mata():
     print(f"{Y}{B}           >> VIEW SENDER WEBSITE BY BINTANG <<{W}\n")
 
     print(f"{C}{B}╔══════════════════════════════════════════════════════════╗")
-    print(f"║              - VIEWSENDER WEBSITE -                          ║")          
-    print(f"║        Penambah Views Pada Website - By Bintang.             ║")
-    print(f"║             Simple | Cepat | Work 100%                       ║")
+    print(f"║              - VIEWSENDER WEBSITE -                       ║")          
+    print(f"║        Penambah Views Pada Website - By Bintang.          ║")
+    print(f"║             Simple | Cepat | Work 100%                    ║")
     print(f"╚══════════════════════════════════════════════════════════╝{W}")
 
     target = input(f"\n{B}┌─[MASUKKAN URL TARGET]\n└────► {W}")
