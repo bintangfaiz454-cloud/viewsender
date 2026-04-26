@@ -12,7 +12,7 @@ def show_help():
     """Tampilan panduan sebelum eksekusi"""
     os.system('clear')
     print(f"{C}{B}╔══════════════════════════════════════════════════════════╗{W}")
-    print(f"{C}{B}║{W}      🔥 VIEWSENDER WEBSITE DARI BINTANG TOOLS 🔥           {C}{B}║{W}")
+    print(f"{C}{B}║{W}     🔥 VIEWSENDER WEBSITE - DARI BINTANG TOOLS 🔥         {C}{B}║{W}")
     print(f"{C}{B}╚══════════════════════════════════════════════════════════╝{W}")
     print(f"""
 {G}{B}📖 PANDUAN PENGGUNAAN:{W}
