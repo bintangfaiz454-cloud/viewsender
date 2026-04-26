@@ -81,18 +81,23 @@ Setelah menjalankan python viewsender.py, ikuti petunjuk di layar:
 
 ```
 ---
-
+```
 ⚙️ FITUR YANG TERSEDIA
 
 Fitur Keterangan
 ✅ Random User-Agent Berpura-pura jadi perangkat berbeda
+
 ✅ Loading bar warna-warni Animasi proses pengiriman
+
 ✅ Laporan lengkap Berhasil & gagal tampil jelas
+
 ✅ Timeout handling Tidak menggantung saat error
+
 ✅ Simple input Hanya URL + jumlah views
+```
 
 ---
-
+```
 ⚠️ BATASAN & TANGGUNG JAWAB
 
 Boleh ✅ Tidak Boleh ❌
@@ -101,9 +106,9 @@ Testing performa server Manipulasi iklan / AdSense
 Belajar & riset DDoS / serangan ilegal
 
 Melanggar UU ITE, resiko pidana ditanggung pengguna.
-
+```
 ---
-
+```
 🛠️ TROUBLESHOOTING
 
 Masalah Solusi
@@ -111,14 +116,13 @@ command not found pkg install git python
 No module named 'requests' pip install requests
 Permission denied termux-setup-storage
 Koneksi timeout / gagal Cek koneksi internet & pastikan URL benar
-
+```
 ---
-
+```
 👤 AUTHOR
 
-Bintang
 team : BINTANGTOOLS
-
+```
 ---
 
 📄 LICENSE
